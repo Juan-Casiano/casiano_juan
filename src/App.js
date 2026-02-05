@@ -22,7 +22,7 @@ function App() {
         </a>
         <a
           className="App-link"
-          href="https://www.medikit.com.mx/practicas/documentacion.html"
+          href="https://www.medikt.com.mx/practicas/documentacion.html"
           target="_blank"
           rel="noopener noreferrer"
         >
