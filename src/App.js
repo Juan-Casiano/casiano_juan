@@ -14,7 +14,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="www.linkedin.com/in/juan-david-casiano-839091229"
+          href="https://www.linkedin.com/in/juan-david-casiano-839091229"
           target="_blank"
           rel="noopener noreferrer"
         >
