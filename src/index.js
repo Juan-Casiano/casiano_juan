@@ -3,8 +3,6 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import Componente_david from './Componente_david';
-import Calculadora from './Calculadora';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
