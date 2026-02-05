@@ -5,17 +5,28 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={profile} className="App-logo" alt="profile" />
+        <img src={profile}  alt="profile" />
         <p>
-           <code>Soy un estudiante de la UTD y este es mi hola mundo en react</code> and save to reload.
+           <code>Evalución parcial 1</code> 
+        </p>
+        <p>
+           <code>Alumno(a): Casiano Gamiz Juan David</code> 
         </p>
         <a
           className="App-link"
-          href="https://utd.edu.mx"
+          href="www.linkedin.com/in/juan-david-casiano-839091229"
           target="_blank"
           rel="noopener noreferrer"
         >
-          ACCEDER A LA UTD
+          LINKED IN DE MI RPFILE
+        </a>
+        <a
+          className="App-link"
+          href="https://www.medikit.com.mx/practicas/documentacion.html"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          DOCUMENTACIÓN PARCIAL 1
         </a>
       </header>
     </div>
